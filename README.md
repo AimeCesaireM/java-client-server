@@ -12,10 +12,6 @@ This project contains various Java classes that implement different client-serve
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Classes](#classes)
-  - [LocalPortScanner](#localportscanner)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
