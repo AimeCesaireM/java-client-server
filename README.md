@@ -43,8 +43,4 @@ To use the client-server components in your project, follow these steps:
    ```
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This template can be expanded for other classes in the project by following a similar structure, adding more classes, and documenting their purpose and usage as needed. Let me know if you'd like to modify any part!
+This project is licensed under the MIT License
